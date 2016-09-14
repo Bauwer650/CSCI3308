@@ -2,3 +2,5 @@
 # CSCI3308
 Evan Yin
 This might cause a merge conflict
+
+Partner: Nicholas Osterfelt
